@@ -1,0 +1,12 @@
+robbyrussell/oh-my-zsh path:plugins/git-flow
+robbyrussell/oh-my-zsh path:plugins/extract
+#robbyrussell/oh-my-zsh path:plugins/tmux
+#robbyrussell/oh-my-zsh path:plugins/systemd
+#robbyrussell/oh-my-zsh path:plugins/debian
+#robbyrussell/oh-my-zsh path:plugins/systemadmin
+robbyrussell/oh-my-zsh path:plugins/z
+robbyrussell/oh-my-zsh path:themes/zhann.zsh-theme
+robbyrussell/oh-my-zsh path:plugins/per-directory-history
+
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
