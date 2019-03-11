@@ -8,7 +8,7 @@ Install homebrew (brew.sh).
 
 Then do these commands:
 
-```sh
+```bash
 brew install coreutils antibody
 
 brew install zsh
