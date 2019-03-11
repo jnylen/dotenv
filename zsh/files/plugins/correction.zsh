@@ -1,4 +1,4 @@
-if [[ "$ENABLE_CORRECTION" == "true" ]]; then
+#if [[ "$ENABLE_CORRECTION" == "true" ]]; then
   alias cp='nocorrect cp'
   alias ebuild='nocorrect ebuild'
   alias gist='nocorrect gist'
@@ -11,4 +11,4 @@ if [[ "$ENABLE_CORRECTION" == "true" ]]; then
   alias sudo='nocorrect sudo'
 
   setopt correct_all
-fi
+#fi
