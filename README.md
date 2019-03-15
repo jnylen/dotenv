@@ -16,6 +16,7 @@ chsh -s `which zsh`
 
 cp zsh/zshrc ~/.zshrc
 cp zsh/dircolors ~/.dircolors
+mkdir -p ~/.zsh
 cp -R zsh/files/* ~/.zsh
 
 ./~/.zsh/update.sh
