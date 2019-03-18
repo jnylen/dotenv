@@ -20,6 +20,8 @@ alias ungron="gron --ungron"
 
 # Git
 alias ga='git add'
+alias gb='git branch'
+alias gbda='git branch --no-color --merged | command grep -vE "^(\*|\s*(master|develop|dev)\s*$)" | command xargs -n 1 git branch -d'
 alias gr='git rm'
 alias gst='git status'
 alias gl='git pull'
@@ -30,4 +32,5 @@ alias gc!='git commit -v --amend'
 alias gp='git push'
 alias gpd='git push --dry-run'
 alias gra='git remote add'
+alias gd='git diff'
 alias ix="curl -F 'f:1=<-' http://ix.io"
