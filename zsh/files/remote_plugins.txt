@@ -11,4 +11,5 @@ robbyrussell/oh-my-zsh path:plugins/per-directory-history
 zsh-users/zsh-completions
 zsh-users/zsh-autosuggestions
 
+#jreese/zsh-titles
 https://gitlab.com/jnylen/zsh-titles.git

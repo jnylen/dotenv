@@ -50,7 +50,7 @@ fi
 
 # Load all plugins
 source ~/.zsh/remote_plugins.sh
-#source ~/.zsh/plugins/*.zsh
+
 foreach file (`echo ~/.zsh/plugins/*.zsh`)
     if [[ -a $file ]]; then
         source $file
