@@ -1,3 +1,5 @@
+source /etc/profile
+
 # Set zsh path
 export ZSH='~/.zsh'
 export EDITOR='nano'
