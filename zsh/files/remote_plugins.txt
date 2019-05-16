@@ -8,6 +8,7 @@ robbyrussell/oh-my-zsh path:plugins/asdf
 robbyrussell/oh-my-zsh path:plugins/z
 robbyrussell/oh-my-zsh path:themes/zhann.zsh-theme
 robbyrussell/oh-my-zsh path:plugins/per-directory-history
+robbyrussell/oh-my-zsh path:plugins/dotenv
 
 zsh-users/zsh-completions
 zsh-users/zsh-autosuggestions
