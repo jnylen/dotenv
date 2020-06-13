@@ -1,17 +1,18 @@
-robbyrussell/oh-my-zsh path:plugins/git-flow
-robbyrussell/oh-my-zsh path:plugins/extract
 robbyrussell/oh-my-zsh path:plugins/asdf
-#robbyrussell/oh-my-zsh path:plugins/tmux
-#robbyrussell/oh-my-zsh path:plugins/systemd
-#robbyrussell/oh-my-zsh path:plugins/debian
-#robbyrussell/oh-my-zsh path:plugins/systemadmin
-robbyrussell/oh-my-zsh path:plugins/z
-robbyrussell/oh-my-zsh path:themes/zhann.zsh-theme
-robbyrussell/oh-my-zsh path:plugins/per-directory-history
+robbyrussell/oh-my-zsh path:plugins/colorize
+robbyrussell/oh-my-zsh path:plugins/command-not-found
+robbyrussell/oh-my-zsh path:plugins/docker-compose
 robbyrussell/oh-my-zsh path:plugins/dotenv
+#robbyrussell/oh-my-zsh path:plugins/debian
+robbyrussell/oh-my-zsh path:plugins/extract
+robbyrussell/oh-my-zsh path:plugins/gatsby
+robbyrussell/oh-my-zsh path:plugins/gitignore
+robbyrussell/oh-my-zsh path:plugins/per-directory-history
+robbyrussell/oh-my-zsh path:plugins/z
+
+agnoster/agnoster-zsh-theme
 
 zsh-users/zsh-completions
 zsh-users/zsh-autosuggestions
 
-#jreese/zsh-titles
-https://gitlab.com/jnylen/zsh-titles.git
+https://github.com/jnylen/zsh-titles.git
