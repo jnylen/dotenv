@@ -10,6 +10,7 @@
   alias mysql='nocorrect mysql'
   alias sudo='nocorrect sudo'
   alias rspec='nocorrect rspec'
+  alias bundle='nocorrect bundle'
 
   setopt correct_all
 #fi
