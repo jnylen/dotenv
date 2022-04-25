@@ -9,6 +9,7 @@
   alias mv='nocorrect mv'
   alias mysql='nocorrect mysql'
   alias sudo='nocorrect sudo'
+  alias rspec='nocorrect rspec'
 
   setopt correct_all
 #fi
