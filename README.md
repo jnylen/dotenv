@@ -33,9 +33,11 @@ antidote load
 source ~/.zsh_plugins.zsh
 ```
 
-For git:
+For git (Follow [this link for GPG](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)):
 
 ```bash
 git config --global commit.gpgsign true
 gpg --gen-key
+
+git config --global user.signingkey <SSH KEY>
 ```
