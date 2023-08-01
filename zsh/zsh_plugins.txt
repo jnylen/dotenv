@@ -4,7 +4,6 @@ robbyrussell/oh-my-zsh path:plugins/command-not-found
 robbyrussell/oh-my-zsh path:plugins/dotenv
 #robbyrussell/oh-my-zsh path:plugins/debian
 robbyrussell/oh-my-zsh path:plugins/extract
-robbyrussell/oh-my-zsh path:plugins/gatsby
 robbyrussell/oh-my-zsh path:plugins/gitignore
 robbyrussell/oh-my-zsh path:plugins/per-directory-history
 robbyrussell/oh-my-zsh path:plugins/z

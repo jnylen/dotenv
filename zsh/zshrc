@@ -50,9 +50,6 @@ else
   compinit -u -C -d "${ZSH_COMPDUMP}"
 fi
 
-# Load all plugins
-source ~/.zsh/remote_plugins.sh
-
 foreach file (`echo ~/.zsh/plugins/*.zsh`)
     if [[ -a $file ]]; then
         source $file
