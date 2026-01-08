@@ -1,4 +1,4 @@
-robbyrussell/oh-my-zsh path:plugins/mise
+mattmc3/zephyr path:plugins/completion
 robbyrussell/oh-my-zsh path:plugins/colorize
 robbyrussell/oh-my-zsh path:plugins/command-not-found
 robbyrussell/oh-my-zsh path:plugins/dotenv
@@ -7,6 +7,8 @@ robbyrussell/oh-my-zsh path:plugins/extract
 robbyrussell/oh-my-zsh path:plugins/gitignore
 robbyrussell/oh-my-zsh path:plugins/per-directory-history
 robbyrussell/oh-my-zsh path:plugins/z
+
+mattmc3/zephyr path:plugins/macos
 
 agnoster/agnoster-zsh-theme
 
