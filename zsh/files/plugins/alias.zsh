@@ -18,4 +18,6 @@ alias flush-logs="find . -type f -name '*.log' -exec /bin/sh -c \"> '{}'\" \;"
 # simpler ungronning
 alias ungron="gron --ungron"
 
-alias ix="curl -F 'f:1=<-' http://ix.io"
+alias ix="pst"
+alias pasters="pst"
+alias tb="pst"

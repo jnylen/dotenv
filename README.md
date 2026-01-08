@@ -11,6 +11,8 @@ Then do these commands:
 ```bash
 brew install coreutils antidote
 
+brew install jnylen/tap/pst
+
 brew install zsh
 chsh -s `which zsh`
 
